@@ -1,3 +1,6 @@
+
+This code is deprecated in favor of https://github.com/applidget/omniauth-applidget
+
 applidget-oauth2
 ================
 
